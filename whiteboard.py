@@ -19,6 +19,7 @@ class DigitalWhiteboard:
         self.brush_color = "black"
         self.brush_size = 5
         self.last_x, self.last_y = None, None
+        self.shape_start_x, self.shape_start_y = None, None
         self.current_tool = "brush"  # brush, eraser, rectangle, circle, line
         self.current_page = 0
         self.pages = [{"objects": [], "background": None}]
@@ -257,7 +258,41 @@ class DigitalWhiteboard:
         self.canvas.delete("all")
         if self.grid_visible:
             self.draw_grid()
+        # Restore objects for this page
+        page = self.pages[self.current_page]
+        for obj in page.get("objects", []):
+            if obj["type"] == "line":
+                obj_id = self.canvas.create_line(*obj["coords"], fill=obj["color"], width=obj["width"], capstyle=tk.ROUND, smooth=True)
+            elif obj["type"] == "rectangle":
+                obj_id = self.canvas.create_rectangle(*obj["coords"], outline=obj["color"], width=obj["width"])
+            elif obj["type"] == "circle":
+                obj_id = self.canvas.create_oval(*obj["coords"], outline=obj["color"], width=obj["width"])
+            elif obj["type"] == "line_shape":
+                obj_id = self.canvas.create_line(*obj["coords"], fill=obj["color"], width=obj["width"])
+            # Update id in case of undo/redo
+            obj["id"] = obj_id
         self.update_page_label()
+        self.undo_stack.clear()
+        self.redo_stack.clear()
+
+    def save_current_page(self):
+        # Save all drawable objects on the canvas to the current page
+        objects = []
+        for item in self.canvas.find_all():
+            tags = self.canvas.gettags(item)
+            if "grid" in tags or "temp_shape" in tags:
+                continue
+            coords = self.canvas.coords(item)
+            item_type = self.canvas.type(item)
+            color = self.canvas.itemcget(item, "fill") or self.canvas.itemcget(item, "outline")
+            width = int(float(self.canvas.itemcget(item, "width")))
+            if item_type == "line":
+                objects.append({"type": "line", "coords": coords, "color": color, "width": width})
+            elif item_type == "rectangle":
+                objects.append({"type": "rectangle", "coords": coords, "color": color, "width": width})
+            elif item_type == "oval":
+                objects.append({"type": "circle", "coords": coords, "color": color, "width": width})
+        self.pages[self.current_page]["objects"] = objects
 
     def set_tool(self, tool):
         """Change the current drawing tool"""
@@ -270,6 +305,9 @@ class DigitalWhiteboard:
     def start_draw(self, event):
         self.last_x = self.canvas.canvasx(event.x)
         self.last_y = self.canvas.canvasy(event.y)
+        # For shapes, store the initial point separately
+        self.shape_start_x = self.last_x
+        self.shape_start_y = self.last_y
 
     def draw(self, event):
         x = self.canvas.canvasx(event.x)
@@ -277,6 +315,29 @@ class DigitalWhiteboard:
         
         if self.current_tool in ["brush", "eraser"]:
             color = "white" if self.current_tool == "eraser" else self.brush_color
+            
+            # For eraser tool, handle preserving grid lines differently
+            if self.current_tool == "eraser":
+                # First, identify all items that would be affected by the eraser
+                items_at_position = self.canvas.find_overlapping(x-self.brush_size/2, y-self.brush_size/2, 
+                                                               x+self.brush_size/2, y+self.brush_size/2)
+                
+                # Only erase non-grid items
+                for item in items_at_position:
+                    if item and "grid" not in self.canvas.gettags(item):
+                        self.canvas.delete(item)
+                        # Track the deletion in undo stack - simplified for this example
+                        self.undo_stack.append({
+                            "type": "erased",
+                            "id": item,
+                            # We'd need more info to reconstruct
+                        })
+                        
+                self.last_x = x
+                self.last_y = y
+                return
+            
+            # Normal drawing tool behavior continues as before
             line = self.canvas.create_line(
                 self.last_x, self.last_y, x, y,
                 width=self.brush_size,
@@ -292,33 +353,34 @@ class DigitalWhiteboard:
                 "width": self.brush_size
             })
             self.redo_stack.clear()
+            self.last_x = x
+            self.last_y = y  # Only update for brush/eraser
         
         elif self.current_tool in ["rectangle", "circle", "line"]:
             self.canvas.delete("temp_shape")
+            # Use shape_start_x/y as the fixed starting point
             if self.current_tool == "rectangle":
                 self.canvas.create_rectangle(
-                    self.last_x, self.last_y, x, y,
+                    self.shape_start_x, self.shape_start_y, x, y,
                     outline=self.brush_color,
                     width=self.brush_size,
                     tags="temp_shape"
                 )
             elif self.current_tool == "circle":
                 self.canvas.create_oval(
-                    self.last_x, self.last_y, x, y,
+                    self.shape_start_x, self.shape_start_y, x, y,
                     outline=self.brush_color,
                     width=self.brush_size,
                     tags="temp_shape"
                 )
             elif self.current_tool == "line":
                 self.canvas.create_line(
-                    self.last_x, self.last_y, x, y,
+                    self.shape_start_x, self.shape_start_y, x, y,
                     fill=self.brush_color,
                     width=self.brush_size,
                     tags="temp_shape"
                 )
-        
-        self.last_x = x
-        self.last_y = y
+        # Do not update self.last_x/self.last_y for shapes
 
     def stop_draw(self, event):
         if self.current_tool in ["rectangle", "circle", "line"]:
@@ -326,21 +388,22 @@ class DigitalWhiteboard:
             y = self.canvas.canvasy(event.y)
             shape = None
             
+            # Use shape_start_x/y as the fixed starting point
             if self.current_tool == "rectangle":
                 shape = self.canvas.create_rectangle(
-                    self.last_x, self.last_y, x, y,
+                    self.shape_start_x, self.shape_start_y, x, y,
                     outline=self.brush_color,
                     width=self.brush_size
                 )
             elif self.current_tool == "circle":
                 shape = self.canvas.create_oval(
-                    self.last_x, self.last_y, x, y,
+                    self.shape_start_x, self.shape_start_y, x, y,
                     outline=self.brush_color,
                     width=self.brush_size
                 )
             elif self.current_tool == "line":
                 shape = self.canvas.create_line(
-                    self.last_x, self.last_y, x, y,
+                    self.shape_start_x, self.shape_start_y, x, y,
                     fill=self.brush_color,
                     width=self.brush_size
                 )
@@ -349,7 +412,7 @@ class DigitalWhiteboard:
                 self.undo_stack.append({
                     "type": self.current_tool,
                     "id": shape,
-                    "coords": [self.last_x, self.last_y, x, y],
+                    "coords": [self.shape_start_x, self.shape_start_y, x, y],
                     "color": self.brush_color,
                     "width": self.brush_size
                 })
@@ -462,29 +525,56 @@ class DigitalWhiteboard:
                 self.undo_stack.append(action)
 
     def add_page(self):
+        self.save_current_page()
         self.pages.append({"objects": [], "background": None})
         self.current_page = len(self.pages) - 1
         self.initialize_page()
 
     def previous_page(self):
         if self.current_page > 0:
-            self.current_page -= 1
+            # Save the current page first to ensure objects list is up-to-date
+            self.save_current_page()
+            
+            # If current page is empty and more than one page exists, delete it before moving
+            if not self.pages[self.current_page]["objects"] and len(self.pages) > 1:
+                del self.pages[self.current_page]
+                self.current_page -= 1
+            else:
+                self.current_page -= 1
+                
             self.initialize_page()
 
     def next_page(self):
         if self.current_page < len(self.pages) - 1:
-            self.current_page += 1
+            # Save the current page first to ensure objects list is up-to-date 
+            self.save_current_page()
+            
+            # If current page is empty and more than one page exists, delete it before moving
+            if not self.pages[self.current_page]["objects"] and len(self.pages) > 1:
+                del self.pages[self.current_page]
+                # Don't modify current_page index as we're deleting current and going to next
+            else:
+                self.current_page += 1
+                
             self.initialize_page()
 
     def update_page_label(self):
         self.page_label.config(text=f"Page {self.current_page + 1}")
 
     def clear_canvas(self):
-        self.canvas.delete("all")
-        if self.grid_visible:
+        # Delete all objects except the grid
+        for item in self.canvas.find_all():
+            if "grid" not in self.canvas.gettags(item):
+                self.canvas.delete(item)
+                
+        # Redraw grid if needed
+        if self.grid_visible and not self.canvas.find_withtag("grid"):
             self.draw_grid()
+            
         self.undo_stack.clear()
         self.redo_stack.clear()
+        # Just clear objects for this page, don't delete the page itself
+        self.pages[self.current_page]["objects"] = []
 
     def save_whiteboard(self):
         file_path = filedialog.asksaveasfilename(
