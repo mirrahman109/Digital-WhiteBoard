@@ -77,6 +77,10 @@ class DigitalWhiteboard:
         icon_files = {
             'brush': 'pencil.png',          # Using pencil.png for brush tool
             'eraser': 'eraser.png',
+            'shape': 'shapes.png',          # Fixed: using shapes.png for the shape button
+            'rectangle': 'square.png',      # Using square.png for rectangle tool
+            'circle': 'circle.png',         # Add circle icon
+            'line': 'line.png',             # Add line icon
             'undo': 'undo.png',
             'redo': 'redo.png',
             'clear': 'clear.png',

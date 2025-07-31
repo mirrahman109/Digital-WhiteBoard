@@ -5,10 +5,10 @@
         {
           "type": "line",
           "coords": [
-            431.0,
-            116.0,
-            431.0,
-            115.0
+            215.0,
+            196.0,
+            221.0,
+            195.0
           ],
           "options": {
             "fill": "black",
@@ -18,10 +18,10 @@
         {
           "type": "line",
           "coords": [
-            431.0,
-            115.0,
-            431.0,
-            114.0
+            221.0,
+            195.0,
+            229.0,
+            195.0
           ],
           "options": {
             "fill": "black",
@@ -31,243 +31,9 @@
         {
           "type": "line",
           "coords": [
-            431.0,
-            114.0,
-            432.0,
-            112.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            432.0,
-            112.0,
-            435.0,
-            109.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            435.0,
-            109.0,
-            437.0,
-            108.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            437.0,
-            108.0,
-            446.0,
-            105.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            446.0,
-            105.0,
-            473.0,
-            97.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            473.0,
-            97.0,
-            513.0,
-            92.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            513.0,
-            92.0,
-            551.0,
-            92.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            551.0,
-            92.0,
-            589.0,
-            92.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            589.0,
-            92.0,
-            626.0,
-            99.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            626.0,
-            99.0,
-            656.0,
-            109.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            656.0,
-            109.0,
-            659.0,
-            112.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            659.0,
-            112.0,
-            672.0,
-            120.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            672.0,
-            120.0,
-            687.0,
-            140.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            687.0,
-            140.0,
-            690.0,
-            145.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            690.0,
-            145.0,
-            692.0,
-            155.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            692.0,
-            155.0,
-            692.0,
-            166.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            692.0,
-            166.0,
-            689.0,
-            173.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            689.0,
-            173.0,
-            679.0,
-            181.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            679.0,
-            181.0,
-            654.0,
+            229.0,
+            195.0,
+            237.0,
             194.0
           ],
           "options": {
@@ -278,10 +44,10 @@
         {
           "type": "line",
           "coords": [
-            654.0,
+            237.0,
             194.0,
-            621.0,
-            204.0
+            247.0,
+            194.0
           ],
           "options": {
             "fill": "black",
@@ -291,10 +57,10 @@
         {
           "type": "line",
           "coords": [
-            621.0,
-            204.0,
-            584.0,
-            213.0
+            247.0,
+            194.0,
+            251.0,
+            194.0
           ],
           "options": {
             "fill": "black",
@@ -304,10 +70,10 @@
         {
           "type": "line",
           "coords": [
-            584.0,
-            213.0,
-            539.0,
-            218.0
+            251.0,
+            194.0,
+            253.0,
+            195.0
           ],
           "options": {
             "fill": "black",
@@ -317,10 +83,10 @@
         {
           "type": "line",
           "coords": [
-            539.0,
-            218.0,
-            504.0,
-            218.0
+            253.0,
+            195.0,
+            254.0,
+            195.0
           ],
           "options": {
             "fill": "black",
@@ -330,10 +96,10 @@
         {
           "type": "line",
           "coords": [
-            504.0,
-            218.0,
-            466.0,
-            218.0
+            254.0,
+            195.0,
+            256.0,
+            195.0
           ],
           "options": {
             "fill": "black",
@@ -343,10 +109,10 @@
         {
           "type": "line",
           "coords": [
-            466.0,
-            218.0,
-            446.0,
-            217.0
+            256.0,
+            195.0,
+            257.0,
+            195.0
           ],
           "options": {
             "fill": "black",
@@ -356,217 +122,9 @@
         {
           "type": "line",
           "coords": [
-            446.0,
-            217.0,
-            436.0,
-            212.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            436.0,
-            212.0,
-            434.0,
-            208.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            434.0,
-            208.0,
-            431.0,
-            200.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            431.0,
-            200.0,
-            433.0,
-            183.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            433.0,
-            183.0,
-            437.0,
-            174.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            437.0,
-            174.0,
-            441.0,
-            172.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            441.0,
-            172.0,
-            472.0,
-            158.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            472.0,
-            158.0,
-            531.0,
-            144.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            531.0,
-            144.0,
-            577.0,
-            142.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            577.0,
-            142.0,
-            629.0,
-            142.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            629.0,
-            142.0,
-            694.0,
-            146.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            694.0,
-            146.0,
-            745.0,
-            158.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            745.0,
-            158.0,
-            772.0,
-            164.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            772.0,
-            164.0,
-            791.0,
-            177.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            791.0,
-            177.0,
-            800.0,
-            188.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            800.0,
-            188.0,
-            801.0,
-            191.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            801.0,
-            191.0,
-            801.0,
+            257.0,
+            195.0,
+            258.0,
             196.0
           ],
           "options": {
@@ -577,1321 +135,8 @@
         {
           "type": "line",
           "coords": [
-            801.0,
-            196.0,
-            792.0,
-            211.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            792.0,
-            211.0,
-            769.0,
-            224.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            769.0,
-            224.0,
-            736.0,
-            234.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            736.0,
-            234.0,
-            693.0,
-            245.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            693.0,
-            245.0,
-            635.0,
-            251.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            635.0,
-            251.0,
-            600.0,
-            251.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            600.0,
-            251.0,
-            578.0,
-            251.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            578.0,
-            251.0,
-            564.0,
-            248.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            564.0,
-            248.0,
-            561.0,
-            245.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            561.0,
-            245.0,
-            561.0,
-            242.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            561.0,
-            242.0,
-            569.0,
-            235.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            569.0,
-            235.0,
-            592.0,
-            226.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            592.0,
-            226.0,
-            634.0,
-            216.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            634.0,
-            216.0,
-            687.0,
-            210.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            687.0,
-            210.0,
-            752.0,
-            206.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            752.0,
-            206.0,
-            820.0,
-            204.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            820.0,
-            204.0,
-            864.0,
-            204.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            864.0,
-            204.0,
-            877.0,
-            204.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            877.0,
-            204.0,
-            878.0,
-            206.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            878.0,
-            206.0,
-            872.0,
-            210.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            872.0,
-            210.0,
-            856.0,
-            218.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            856.0,
-            218.0,
-            850.0,
-            222.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            850.0,
-            222.0,
-            834.0,
-            227.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            834.0,
-            227.0,
-            767.0,
-            246.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            767.0,
-            246.0,
-            695.0,
-            258.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            695.0,
             258.0,
-            637.0,
-            264.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            637.0,
-            264.0,
-            605.0,
-            271.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            605.0,
-            271.0,
-            602.0,
-            272.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            602.0,
-            272.0,
-            604.0,
-            272.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            604.0,
-            272.0,
-            616.0,
-            272.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            616.0,
-            272.0,
-            647.0,
-            272.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            647.0,
-            272.0,
-            696.0,
-            270.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            696.0,
-            270.0,
-            769.0,
-            266.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            769.0,
-            266.0,
-            854.0,
-            259.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            854.0,
-            259.0,
-            939.0,
-            248.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            939.0,
-            248.0,
-            995.0,
-            234.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            995.0,
-            234.0,
-            1012.0,
-            234.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            1012.0,
-            234.0,
-            1004.0,
-            235.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            1004.0,
-            235.0,
-            976.0,
-            242.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            976.0,
-            242.0,
-            915.0,
-            255.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            915.0,
-            255.0,
-            819.0,
-            272.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            819.0,
-            272.0,
-            715.0,
-            288.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            715.0,
-            288.0,
-            617.0,
-            299.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            617.0,
-            299.0,
-            529.0,
-            306.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            529.0,
-            306.0,
-            459.0,
-            308.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            459.0,
-            308.0,
-            436.0,
-            309.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            436.0,
-            309.0,
-            434.0,
-            309.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            434.0,
-            309.0,
-            443.0,
-            308.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            443.0,
-            308.0,
-            471.0,
-            297.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            471.0,
-            297.0,
-            478.0,
-            296.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            478.0,
-            296.0,
-            529.0,
-            281.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            529.0,
-            281.0,
-            619.0,
-            273.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            619.0,
-            273.0,
-            711.0,
-            246.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            711.0,
-            246.0,
-            762.0,
-            230.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            762.0,
-            230.0,
-            785.0,
-            222.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            785.0,
-            222.0,
-            785.0,
-            221.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            785.0,
-            221.0,
-            779.0,
-            220.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            779.0,
-            220.0,
-            747.0,
-            222.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            747.0,
-            222.0,
-            707.0,
-            227.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            707.0,
-            227.0,
-            642.0,
-            233.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            642.0,
-            233.0,
-            563.0,
-            235.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            563.0,
-            235.0,
-            471.0,
-            242.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            471.0,
-            242.0,
-            402.0,
-            250.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            402.0,
-            250.0,
-            349.0,
-            260.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            349.0,
-            260.0,
-            335.0,
-            260.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            335.0,
-            260.0,
-            338.0,
-            259.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            338.0,
-            259.0,
-            360.0,
-            253.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            360.0,
-            253.0,
-            377.0,
-            248.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            377.0,
-            248.0,
-            414.0,
-            240.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            414.0,
-            240.0,
-            479.0,
-            222.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            479.0,
-            222.0,
-            543.0,
-            205.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            543.0,
-            205.0,
-            582.0,
-            188.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            582.0,
-            188.0,
-            612.0,
-            171.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            612.0,
-            171.0,
-            614.0,
-            169.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            614.0,
-            169.0,
-            607.0,
-            168.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            607.0,
-            168.0,
-            591.0,
-            168.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            591.0,
-            168.0,
-            561.0,
-            168.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            561.0,
-            168.0,
-            504.0,
-            170.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            504.0,
-            170.0,
-            459.0,
-            175.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            459.0,
-            175.0,
-            420.0,
-            179.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            420.0,
-            179.0,
-            389.0,
-            184.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            389.0,
-            184.0,
-            386.0,
-            184.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            386.0,
-            184.0,
-            388.0,
-            184.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            388.0,
-            184.0,
-            389.0,
-            184.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            389.0,
-            184.0,
-            408.0,
-            179.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            408.0,
-            179.0,
-            446.0,
-            170.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            446.0,
-            170.0,
-            473.0,
-            162.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            473.0,
-            162.0,
-            485.0,
-            159.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            485.0,
-            159.0,
-            521.0,
-            146.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            521.0,
-            146.0,
-            551.0,
-            138.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            551.0,
-            138.0,
-            575.0,
-            130.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            575.0,
-            130.0,
-            588.0,
-            127.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            588.0,
-            127.0,
-            592.0,
-            125.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            592.0,
-            125.0,
-            587.0,
-            125.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            587.0,
-            125.0,
-            576.0,
-            126.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            576.0,
-            126.0,
-            551.0,
-            130.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            551.0,
-            130.0,
-            516.0,
-            137.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            516.0,
-            137.0,
-            463.0,
-            147.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            463.0,
-            147.0,
-            394.0,
-            160.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            394.0,
-            160.0,
-            332.0,
-            174.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            332.0,
-            174.0,
-            292.0,
-            185.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            292.0,
-            185.0,
+            196.0,
             258.0,
             197.0
           ],
@@ -1905,7 +150,7 @@
           "coords": [
             258.0,
             197.0,
-            254.0,
+            258.0,
             198.0
           ],
           "options": {
@@ -1916,724 +161,9 @@
         {
           "type": "line",
           "coords": [
-            254.0,
+            258.0,
             198.0,
-            255.0,
-            198.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            255.0,
-            198.0,
-            257.0,
-            198.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            257.0,
-            198.0,
-            270.0,
-            198.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            270.0,
-            198.0,
-            299.0,
-            195.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            299.0,
-            195.0,
-            359.0,
-            189.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            359.0,
-            189.0,
-            423.0,
-            177.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            423.0,
-            177.0,
-            487.0,
-            165.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            487.0,
-            165.0,
-            540.0,
-            157.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            540.0,
-            157.0,
-            595.0,
-            151.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            595.0,
-            151.0,
-            638.0,
-            143.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            638.0,
-            143.0,
-            650.0,
-            142.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            650.0,
-            142.0,
-            652.0,
-            142.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            652.0,
-            142.0,
-            651.0,
-            142.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            651.0,
-            142.0,
-            647.0,
-            142.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            647.0,
-            142.0,
-            637.0,
-            143.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            637.0,
-            143.0,
-            630.0,
-            144.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            630.0,
-            144.0,
-            624.0,
-            146.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            624.0,
-            146.0,
-            627.0,
-            147.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            627.0,
-            147.0,
-            640.0,
-            148.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            640.0,
-            148.0,
-            658.0,
-            149.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            658.0,
-            149.0,
-            688.0,
-            149.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            688.0,
-            149.0,
-            726.0,
-            149.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            726.0,
-            149.0,
-            775.0,
-            149.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            775.0,
-            149.0,
-            805.0,
-            149.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            805.0,
-            149.0,
-            824.0,
-            149.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            824.0,
-            149.0,
-            835.0,
-            149.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            835.0,
-            149.0,
-            838.0,
-            150.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            838.0,
-            150.0,
-            837.0,
-            151.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            837.0,
-            151.0,
-            831.0,
-            153.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            831.0,
-            153.0,
-            820.0,
-            157.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            820.0,
-            157.0,
-            798.0,
-            166.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            798.0,
-            166.0,
-            762.0,
-            179.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            762.0,
-            179.0,
-            743.0,
-            186.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            743.0,
-            186.0,
-            734.0,
-            190.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            734.0,
-            190.0,
-            735.0,
-            192.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            735.0,
-            192.0,
-            740.0,
-            193.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            740.0,
-            193.0,
-            764.0,
-            195.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            764.0,
-            195.0,
-            794.0,
-            195.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            794.0,
-            195.0,
-            835.0,
-            195.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            835.0,
-            195.0,
-            879.0,
-            193.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            879.0,
-            193.0,
-            934.0,
-            189.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            934.0,
-            189.0,
-            970.0,
-            187.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            970.0,
-            187.0,
-            989.0,
-            186.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            989.0,
-            186.0,
-            995.0,
-            186.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            995.0,
-            186.0,
-            988.0,
-            187.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            988.0,
-            187.0,
-            969.0,
-            191.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            969.0,
-            191.0,
-            943.0,
-            195.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            943.0,
-            195.0,
-            911.0,
-            202.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            911.0,
-            202.0,
-            877.0,
-            207.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            877.0,
-            207.0,
-            867.0,
-            210.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            867.0,
-            210.0,
-            866.0,
-            210.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            866.0,
-            210.0,
-            869.0,
-            210.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            869.0,
-            210.0,
-            883.0,
-            210.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            883.0,
-            210.0,
-            906.0,
-            207.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            906.0,
-            207.0,
-            934.0,
-            204.0
-          ],
-          "options": {
-            "fill": "black",
-            "width": "5.0"
-          }
-        },
-        {
-          "type": "line",
-          "coords": [
-            934.0,
-            204.0,
-            968.0,
+            258.0,
             199.0
           ],
           "options": {
@@ -2644,10 +174,10 @@
         {
           "type": "line",
           "coords": [
-            968.0,
+            258.0,
             199.0,
-            997.0,
-            194.0
+            257.0,
+            200.0
           ],
           "options": {
             "fill": "black",
@@ -2657,10 +187,10 @@
         {
           "type": "line",
           "coords": [
-            997.0,
-            194.0,
-            1031.0,
-            191.0
+            257.0,
+            200.0,
+            255.0,
+            201.0
           ],
           "options": {
             "fill": "black",
@@ -2670,10 +200,10 @@
         {
           "type": "line",
           "coords": [
-            1031.0,
-            191.0,
-            1044.0,
-            190.0
+            255.0,
+            201.0,
+            252.0,
+            202.0
           ],
           "options": {
             "fill": "black",
@@ -2683,10 +213,10 @@
         {
           "type": "line",
           "coords": [
-            1044.0,
-            190.0,
-            1048.0,
-            190.0
+            252.0,
+            202.0,
+            249.0,
+            203.0
           ],
           "options": {
             "fill": "black",
@@ -2696,10 +226,10 @@
         {
           "type": "line",
           "coords": [
-            1048.0,
-            190.0,
-            1049.0,
-            190.0
+            249.0,
+            203.0,
+            248.0,
+            203.0
           ],
           "options": {
             "fill": "black",
@@ -2709,9 +239,74 @@
         {
           "type": "line",
           "coords": [
-            1049.0,
-            190.0,
-            1049.0,
+            248.0,
+            203.0,
+            245.0,
+            203.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            245.0,
+            203.0,
+            244.0,
+            203.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            244.0,
+            203.0,
+            241.0,
+            203.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            241.0,
+            203.0,
+            240.0,
+            202.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            240.0,
+            202.0,
+            239.0,
+            198.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            239.0,
+            198.0,
+            239.0,
             189.0
           ],
           "options": {
@@ -2722,10 +317,10 @@
         {
           "type": "line",
           "coords": [
-            1049.0,
+            239.0,
             189.0,
-            1048.0,
-            189.0
+            241.0,
+            177.0
           ],
           "options": {
             "fill": "black",
@@ -2735,10 +330,10 @@
         {
           "type": "line",
           "coords": [
-            1048.0,
-            189.0,
-            1045.0,
-            189.0
+            241.0,
+            177.0,
+            245.0,
+            169.0
           ],
           "options": {
             "fill": "black",
@@ -2748,10 +343,10 @@
         {
           "type": "line",
           "coords": [
-            1045.0,
-            189.0,
-            1041.0,
-            189.0
+            245.0,
+            169.0,
+            249.0,
+            164.0
           ],
           "options": {
             "fill": "black",
@@ -2761,10 +356,10 @@
         {
           "type": "line",
           "coords": [
-            1041.0,
-            189.0,
-            1034.0,
-            189.0
+            249.0,
+            164.0,
+            251.0,
+            160.0
           ],
           "options": {
             "fill": "black",
@@ -2774,10 +369,10 @@
         {
           "type": "line",
           "coords": [
-            1034.0,
-            189.0,
-            1027.0,
-            188.0
+            251.0,
+            160.0,
+            255.0,
+            159.0
           ],
           "options": {
             "fill": "black",
@@ -2787,10 +382,829 @@
         {
           "type": "line",
           "coords": [
-            1027.0,
-            188.0,
-            1024.0,
-            188.0
+            255.0,
+            159.0,
+            258.0,
+            159.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            258.0,
+            159.0,
+            263.0,
+            159.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            263.0,
+            159.0,
+            276.0,
+            163.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            276.0,
+            163.0,
+            287.0,
+            169.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            287.0,
+            169.0,
+            301.0,
+            179.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            301.0,
+            179.0,
+            310.0,
+            185.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            310.0,
+            185.0,
+            320.0,
+            197.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            320.0,
+            197.0,
+            325.0,
+            204.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            325.0,
+            204.0,
+            328.0,
+            212.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            328.0,
+            212.0,
+            330.0,
+            225.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            330.0,
+            225.0,
+            333.0,
+            237.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            333.0,
+            237.0,
+            333.0,
+            246.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            333.0,
+            246.0,
+            333.0,
+            253.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            333.0,
+            253.0,
+            331.0,
+            261.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            331.0,
+            261.0,
+            329.0,
+            264.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            329.0,
+            264.0,
+            327.0,
+            268.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            327.0,
+            268.0,
+            326.0,
+            269.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            326.0,
+            269.0,
+            324.0,
+            271.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            324.0,
+            271.0,
+            323.0,
+            271.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            323.0,
+            271.0,
+            321.0,
+            271.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            321.0,
+            271.0,
+            319.0,
+            271.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            319.0,
+            271.0,
+            319.0,
+            269.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            319.0,
+            269.0,
+            318.0,
+            267.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            318.0,
+            267.0,
+            318.0,
+            262.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            318.0,
+            262.0,
+            318.0,
+            257.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            318.0,
+            257.0,
+            319.0,
+            250.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            319.0,
+            250.0,
+            325.0,
+            240.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            325.0,
+            240.0,
+            331.0,
+            232.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            331.0,
+            232.0,
+            338.0,
+            227.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            338.0,
+            227.0,
+            347.0,
+            224.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            347.0,
+            224.0,
+            361.0,
+            223.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            361.0,
+            223.0,
+            376.0,
+            223.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            376.0,
+            223.0,
+            389.0,
+            228.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            389.0,
+            228.0,
+            401.0,
+            232.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            401.0,
+            232.0,
+            412.0,
+            240.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            412.0,
+            240.0,
+            418.0,
+            247.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            418.0,
+            247.0,
+            422.0,
+            252.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            422.0,
+            252.0,
+            425.0,
+            259.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            425.0,
+            259.0,
+            428.0,
+            262.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            428.0,
+            262.0,
+            429.0,
+            266.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            429.0,
+            266.0,
+            429.0,
+            269.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            429.0,
+            269.0,
+            429.0,
+            271.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            429.0,
+            271.0,
+            429.0,
+            272.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            429.0,
+            272.0,
+            429.0,
+            273.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            429.0,
+            273.0,
+            428.0,
+            274.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            428.0,
+            274.0,
+            427.0,
+            274.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            427.0,
+            274.0,
+            426.0,
+            274.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            426.0,
+            274.0,
+            425.0,
+            274.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            425.0,
+            274.0,
+            423.0,
+            273.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            423.0,
+            273.0,
+            422.0,
+            272.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            422.0,
+            272.0,
+            421.0,
+            268.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            421.0,
+            268.0,
+            419.0,
+            260.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            419.0,
+            260.0,
+            422.0,
+            247.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            422.0,
+            247.0,
+            430.0,
+            233.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            430.0,
+            233.0,
+            458.0,
+            202.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            458.0,
+            202.0,
+            485.0,
+            181.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            485.0,
+            181.0,
+            505.0,
+            170.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            505.0,
+            170.0,
+            520.0,
+            160.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            520.0,
+            160.0,
+            547.0,
+            145.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            547.0,
+            145.0,
+            560.0,
+            139.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            560.0,
+            139.0,
+            569.0,
+            133.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            569.0,
+            133.0,
+            577.0,
+            130.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            577.0,
+            130.0,
+            581.0,
+            127.0
+          ],
+          "options": {
+            "fill": "black",
+            "width": "5.0"
+          }
+        },
+        {
+          "type": "line",
+          "coords": [
+            581.0,
+            127.0,
+            584.0,
+            127.0
           ],
           "options": {
             "fill": "black",

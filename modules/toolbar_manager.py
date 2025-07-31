@@ -46,6 +46,9 @@ class ToolbarManager:
         eraser_btn.pack(side=tk.LEFT, padx=button_padding, pady=button_padding)
         ToolTip(eraser_btn, "Eraser Tool")
         
+        # Add shape dropdown menu
+        self.create_shape_dropdown(tools_frame, button_width, button_padding)
+        
         # Fix the clear button with proper error handling and lambda
         clear_btn = ttk.Button(
             tools_frame, 
@@ -114,6 +117,16 @@ class ToolbarManager:
         )
         theme_btn.pack(side=tk.LEFT, padx=button_padding, pady=button_padding)
         ToolTip(theme_btn, "Toggle Dark/Light Background")
+        
+        # Add grid toggle button with proper icon and command
+        self.grid_button = ttk.Button(
+            options_frame,
+            image=self.app.icons.get('grid'),
+            command=self.toggle_grid,
+            width=button_width
+        )
+        self.grid_button.pack(side=tk.LEFT, padx=button_padding, pady=button_padding)
+        ToolTip(self.grid_button, "Toggle Grid Lines")
         
         # File operations frame
         file_frame = ttk.LabelFrame(self.toolbar, text="File")
@@ -229,3 +242,66 @@ class ToolbarManager:
             print(f"Error clearing canvas: {e}")
             import traceback
             traceback.print_exc()
+    
+    def create_shape_dropdown(self, parent, button_width, button_padding):
+        """Create a dropdown menu for shape tools"""
+        # Create the main shape button with proper icon and sizing
+        self.shape_button = ttk.Button(
+            parent,
+            image=self.app.icons.get('shape'),  # Fixed: changed from 'shapes' to 'shape'
+            width=button_width  # This ensures same width as other buttons
+        )
+        self.shape_button.pack(side=tk.LEFT, padx=button_padding, pady=button_padding)
+        ToolTip(self.shape_button, "Shape Tools")
+        
+        # Create the dropdown menu
+        self.shape_menu = tk.Menu(self.shape_button, tearoff=0)
+        
+        # Add Rectangle option
+        self.shape_menu.add_command(
+            label="Rectangle",
+            image=self.app.icons.get('rectangle'),
+            compound=tk.LEFT,
+            command=lambda: self.app.set_tool("rectangle")
+        )
+        
+        # Add Circle option
+        self.shape_menu.add_command(
+            label="Circle",
+            image=self.app.icons.get('circle'),
+            compound=tk.LEFT,
+            command=lambda: self.app.set_tool("circle")
+        )
+        
+        # Add Line option
+        self.shape_menu.add_command(
+            label="Line",
+            image=self.app.icons.get('line'),
+            compound=tk.LEFT,
+            command=lambda: self.app.set_tool("line")
+        )
+        
+        # Bind the button to show the dropdown menu
+        self.shape_button.configure(command=self.show_shape_menu)
+    
+    def show_shape_menu(self):
+        """Show the shape dropdown menu"""
+        try:
+            # Get the position of the shape button
+            x = self.shape_button.winfo_rootx()
+            y = self.shape_button.winfo_rooty() + self.shape_button.winfo_height()
+            
+            # Show the menu at the button position
+            self.shape_menu.post(x, y)
+        except Exception as e:
+            print(f"Error showing shape menu: {e}")
+    
+    def toggle_grid(self):
+        """Toggle grid visibility on the canvas"""
+        try:
+            if hasattr(self.app.canvas_manager, 'toggle_grid'):
+                self.app.canvas_manager.toggle_grid()
+            else:
+                print("Error: CanvasManager has no toggle_grid method")
+        except Exception as e:
+            print(f"Error toggling grid: {e}")

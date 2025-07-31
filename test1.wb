@@ -1,0 +1,1901 @@
+{
+  "pages": [
+    {
+      "elements": [
+        {
+          "type": "line",
+          "points": [
+            181.0,
+            275.0,
+            181.0,
+            270.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            181.0,
+            270.0,
+            184.0,
+            258.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            184.0,
+            258.0,
+            193.0,
+            226.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            193.0,
+            226.0,
+            211.0,
+            192.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            211.0,
+            192.0,
+            220.0,
+            178.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            220.0,
+            178.0,
+            227.0,
+            168.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            227.0,
+            168.0,
+            237.0,
+            158.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            237.0,
+            158.0,
+            244.0,
+            152.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            244.0,
+            152.0,
+            253.0,
+            146.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            253.0,
+            146.0,
+            263.0,
+            143.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            263.0,
+            143.0,
+            272.0,
+            141.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            272.0,
+            141.0,
+            280.0,
+            142.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            280.0,
+            142.0,
+            292.0,
+            145.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            292.0,
+            145.0,
+            304.0,
+            150.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            304.0,
+            150.0,
+            312.0,
+            155.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            312.0,
+            155.0,
+            322.0,
+            167.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            322.0,
+            167.0,
+            328.0,
+            178.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            328.0,
+            178.0,
+            333.0,
+            193.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            333.0,
+            193.0,
+            337.0,
+            206.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            337.0,
+            206.0,
+            337.0,
+            213.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            337.0,
+            213.0,
+            338.0,
+            225.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            338.0,
+            225.0,
+            338.0,
+            233.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            338.0,
+            233.0,
+            337.0,
+            240.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            337.0,
+            240.0,
+            334.0,
+            247.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            334.0,
+            247.0,
+            330.0,
+            253.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            330.0,
+            253.0,
+            325.0,
+            257.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            325.0,
+            257.0,
+            319.0,
+            261.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            319.0,
+            261.0,
+            314.0,
+            264.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            314.0,
+            264.0,
+            309.0,
+            266.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            309.0,
+            266.0,
+            301.0,
+            266.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            301.0,
+            266.0,
+            296.0,
+            266.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            296.0,
+            266.0,
+            292.0,
+            266.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            292.0,
+            266.0,
+            289.0,
+            263.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            289.0,
+            263.0,
+            284.0,
+            259.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            284.0,
+            259.0,
+            280.0,
+            256.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            280.0,
+            256.0,
+            278.0,
+            252.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            278.0,
+            252.0,
+            277.0,
+            246.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            277.0,
+            246.0,
+            277.0,
+            238.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            277.0,
+            238.0,
+            279.0,
+            226.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            279.0,
+            226.0,
+            289.0,
+            205.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            289.0,
+            205.0,
+            305.0,
+            185.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            305.0,
+            185.0,
+            313.0,
+            176.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            313.0,
+            176.0,
+            325.0,
+            166.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            325.0,
+            166.0,
+            335.0,
+            160.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            335.0,
+            160.0,
+            345.0,
+            157.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            345.0,
+            157.0,
+            357.0,
+            156.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            357.0,
+            156.0,
+            368.0,
+            156.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            368.0,
+            156.0,
+            373.0,
+            159.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            373.0,
+            159.0,
+            381.0,
+            164.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            381.0,
+            164.0,
+            387.0,
+            170.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            387.0,
+            170.0,
+            394.0,
+            180.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            394.0,
+            180.0,
+            397.0,
+            191.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            397.0,
+            191.0,
+            398.0,
+            203.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            398.0,
+            203.0,
+            398.0,
+            217.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            398.0,
+            217.0,
+            396.0,
+            229.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            396.0,
+            229.0,
+            393.0,
+            241.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            393.0,
+            241.0,
+            389.0,
+            248.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            389.0,
+            248.0,
+            386.0,
+            254.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            386.0,
+            254.0,
+            384.0,
+            258.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            384.0,
+            258.0,
+            381.0,
+            259.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            381.0,
+            259.0,
+            380.0,
+            260.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            380.0,
+            260.0,
+            379.0,
+            260.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            379.0,
+            260.0,
+            377.0,
+            260.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            377.0,
+            260.0,
+            375.0,
+            258.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            375.0,
+            258.0,
+            373.0,
+            255.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            373.0,
+            255.0,
+            371.0,
+            250.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            371.0,
+            250.0,
+            370.0,
+            241.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            370.0,
+            241.0,
+            370.0,
+            229.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            370.0,
+            229.0,
+            375.0,
+            214.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            375.0,
+            214.0,
+            386.0,
+            197.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            386.0,
+            197.0,
+            391.0,
+            190.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            391.0,
+            190.0,
+            401.0,
+            179.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            401.0,
+            179.0,
+            409.0,
+            175.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            409.0,
+            175.0,
+            416.0,
+            172.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            416.0,
+            172.0,
+            424.0,
+            170.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            424.0,
+            170.0,
+            431.0,
+            170.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            431.0,
+            170.0,
+            438.0,
+            174.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            438.0,
+            174.0,
+            444.0,
+            178.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            444.0,
+            178.0,
+            449.0,
+            182.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            449.0,
+            182.0,
+            452.0,
+            187.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            452.0,
+            187.0,
+            456.0,
+            197.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            456.0,
+            197.0,
+            457.0,
+            206.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            457.0,
+            206.0,
+            457.0,
+            220.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            457.0,
+            220.0,
+            456.0,
+            233.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            456.0,
+            233.0,
+            451.0,
+            244.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            451.0,
+            244.0,
+            448.0,
+            254.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            448.0,
+            254.0,
+            443.0,
+            265.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            443.0,
+            265.0,
+            440.0,
+            272.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            440.0,
+            272.0,
+            436.0,
+            277.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            436.0,
+            277.0,
+            433.0,
+            279.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            433.0,
+            279.0,
+            432.0,
+            281.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            432.0,
+            281.0,
+            430.0,
+            281.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            430.0,
+            281.0,
+            429.0,
+            281.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            429.0,
+            281.0,
+            427.0,
+            281.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            427.0,
+            281.0,
+            426.0,
+            281.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            426.0,
+            281.0,
+            425.0,
+            279.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            425.0,
+            279.0,
+            425.0,
+            275.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            425.0,
+            275.0,
+            425.0,
+            264.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            425.0,
+            264.0,
+            429.0,
+            246.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            429.0,
+            246.0,
+            436.0,
+            227.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            436.0,
+            227.0,
+            444.0,
+            210.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            444.0,
+            210.0,
+            450.0,
+            199.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            450.0,
+            199.0,
+            454.0,
+            197.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            454.0,
+            197.0,
+            458.0,
+            195.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            458.0,
+            195.0,
+            463.0,
+            193.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            463.0,
+            193.0,
+            469.0,
+            193.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            469.0,
+            193.0,
+            475.0,
+            194.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            475.0,
+            194.0,
+            484.0,
+            198.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            484.0,
+            198.0,
+            491.0,
+            204.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            491.0,
+            204.0,
+            497.0,
+            210.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            497.0,
+            210.0,
+            503.0,
+            218.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            503.0,
+            218.0,
+            509.0,
+            233.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            509.0,
+            233.0,
+            511.0,
+            246.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            511.0,
+            246.0,
+            511.0,
+            257.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            511.0,
+            257.0,
+            510.0,
+            274.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            510.0,
+            274.0,
+            506.0,
+            294.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            506.0,
+            294.0,
+            502.0,
+            307.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            502.0,
+            307.0,
+            497.0,
+            318.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            497.0,
+            318.0,
+            490.0,
+            330.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            490.0,
+            330.0,
+            485.0,
+            338.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            485.0,
+            338.0,
+            481.0,
+            344.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            481.0,
+            344.0,
+            477.0,
+            346.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            477.0,
+            346.0,
+            476.0,
+            348.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            476.0,
+            348.0,
+            473.0,
+            348.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            473.0,
+            348.0,
+            472.0,
+            346.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            472.0,
+            346.0,
+            469.0,
+            342.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            469.0,
+            342.0,
+            469.0,
+            331.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            469.0,
+            331.0,
+            469.0,
+            318.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            469.0,
+            318.0,
+            470.0,
+            299.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            470.0,
+            299.0,
+            478.0,
+            267.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            478.0,
+            267.0,
+            490.0,
+            239.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            490.0,
+            239.0,
+            497.0,
+            223.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            497.0,
+            223.0,
+            511.0,
+            204.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            511.0,
+            204.0,
+            520.0,
+            194.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            520.0,
+            194.0,
+            529.0,
+            186.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            529.0,
+            186.0,
+            540.0,
+            181.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            540.0,
+            181.0,
+            549.0,
+            180.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            549.0,
+            180.0,
+            557.0,
+            180.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            557.0,
+            180.0,
+            566.0,
+            185.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            566.0,
+            185.0,
+            576.0,
+            192.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            576.0,
+            192.0,
+            581.0,
+            198.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            581.0,
+            198.0,
+            586.0,
+            207.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            586.0,
+            207.0,
+            589.0,
+            214.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            589.0,
+            214.0,
+            593.0,
+            226.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            593.0,
+            226.0,
+            594.0,
+            238.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            594.0,
+            238.0,
+            595.0,
+            246.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            595.0,
+            246.0,
+            595.0,
+            252.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            595.0,
+            252.0,
+            595.0,
+            258.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            595.0,
+            258.0,
+            596.0,
+            262.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            596.0,
+            262.0,
+            596.0,
+            265.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            596.0,
+            265.0,
+            596.0,
+            266.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            596.0,
+            266.0,
+            595.0,
+            267.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            595.0,
+            267.0,
+            595.0,
+            266.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            595.0,
+            266.0,
+            595.0,
+            263.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            595.0,
+            263.0,
+            595.0,
+            261.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            595.0,
+            261.0,
+            595.0,
+            258.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        },
+        {
+          "type": "line",
+          "points": [
+            595.0,
+            258.0,
+            595.0,
+            257.0
+          ],
+          "color": "#8000ff",
+          "width": 5,
+          "smooth": false
+        }
+      ],
+      "background_color": "#FFFFFF"
+    },
+    {
+      "elements": [],
+      "background_color": "#FFFFFF"
+    }
+  ],
+  "current_page_index": 0,
+  "is_dark_mode": false,
+  "grid_visible": false,
+  "version": "1.0"
+}

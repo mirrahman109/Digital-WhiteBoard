@@ -1,0 +1,40 @@
+# GitHub Release Information
+
+## Files to include in GitHub release:
+1. `Digital-Whiteboard.exe` - The main executable
+2. `README.txt` - User instructions
+3. Source code (automatically included by GitHub)
+
+## Release Notes Template:
+```
+## Digital Whiteboard v1.0 - Standalone Executable
+
+### Features
+- Complete whiteboard application with drawing tools
+- Multi-page support with navigation
+- Shape tools (Rectangle, Circle, Line)
+- Undo/Redo functionality
+- Grid overlay and dark mode
+- Save/Load projects and export as images
+- Zoom functionality
+
+### Download
+- Download `Digital-Whiteboard.exe` for Windows
+- No installation required - just run the executable
+- All icons and features included
+
+### System Requirements
+- Windows 7/8/10/11 (64-bit)
+- No additional dependencies
+
+### File Size
+- Approximately 25-35 MB (includes Python runtime and all dependencies)
+```
+
+## Upload Instructions:
+1. Go to your GitHub repository
+2. Click "Releases" → "Create a new release"
+3. Tag version: v1.0
+4. Upload the Digital-Whiteboard.exe file
+5. Upload the README.txt file
+6. Use the release notes template above
