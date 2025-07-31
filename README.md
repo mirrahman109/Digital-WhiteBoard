@@ -77,21 +77,30 @@ To create a standalone executable file:
 2. Choose your desired color using the **Color** button
 3. Adjust brush size with the size slider
 4. Click and drag on the canvas to draw
+<img width="1275" height="951" alt="Screenshot 2025-07-31 104736" src="https://github.com/user-attachments/assets/e366739a-6bc7-42f5-81ed-0c2a51a3633e" />
+
+   
 
 ### Shape Drawing
 1. Select **Rectangle**, **Circle**, or **Line** tool
 2. Click and drag to create the shape
 3. Release to finalize the shape
+<img width="1274" height="993" alt="Screenshot 2025-07-31 114550" src="https://github.com/user-attachments/assets/ae02d336-0a9c-4051-afc7-3f2423464dca" />
+
 
 ### Page Management
 - **New Page**: Click the "+" button to create a new page
 - **Navigate**: Use left/right arrows to switch between pages
 - **Page Counter**: Shows current page number and total pages
+<img width="1270" height="989" alt="Screenshot 2025-07-31 114704" src="https://github.com/user-attachments/assets/d1e620a4-8800-4a86-802e-8322fcedf781" />
+
 
 ### File Operations
 - **Save**: Ctrl+S or click Save button to save your project
 - **Load**: Click Load button to open saved projects
 - **Export**: Export current page as an image file
+<img width="1269" height="973" alt="Screenshot 2025-07-31 115011" src="https://github.com/user-attachments/assets/112bf803-faca-4738-bdcc-a306c2c026ff" />
+
 
 ### Keyboard Shortcuts
 - `Ctrl + Z`: Undo last action
