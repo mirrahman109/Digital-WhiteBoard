@@ -183,11 +183,15 @@ This project is open source. Please check the license file for more details.
 
 ## Version History
 
-- **v1.0**: Initial release with basic drawing tools
-- **v1.1**: Added multi-page support
-- **v1.2**: Added file save/load functionality
-- **v1.3**: Added dark mode and grid toggle
-- **v1.4**: Added export functionality and improved UI
+- **v1.0**: - Complete whiteboard application with drawing tools
+- Multi-page support with navigation
+- Shape tools (Rectangle, Circle, Line)
+- Undo/Redo functionality
+- Grid overlay and dark mode
+- Save/Load projects and export as images
+- Zoom functionality
+
+Download: https://github.com/mirrahman109/Digital-WhiteBoard/releases/tag/v1.0
 
 ## Support
 
