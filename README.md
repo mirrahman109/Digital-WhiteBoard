@@ -75,7 +75,7 @@ To create a standalone executable file:
 ### Basic Drawing
 1. Select the **Brush** tool from the toolbar
 2. Choose your desired color using the **Color** button
-3. Adjust brush size with the size slider
+3. Adjust brush size with the size drop down menue
 4. Click and drag on the canvas to draw
 <img width="1275" height="951" alt="Screenshot 2025-07-31 104736" src="https://github.com/user-attachments/assets/e366739a-6bc7-42f5-81ed-0c2a51a3633e" />
 
@@ -101,6 +101,11 @@ To create a standalone executable file:
 - **Export**: Export current page as an image file
 <img width="1269" height="973" alt="Screenshot 2025-07-31 115011" src="https://github.com/user-attachments/assets/112bf803-faca-4738-bdcc-a306c2c026ff" />
 
+### Dark Mode & Grid mode options
+- **Dark**: click Toogle button to turn the light mode into dark and vise versa 
+- **Grid**: Click Toogle grid lines to turn on the grid mode and vise versa
+<img width="1272" height="979" alt="Screenshot 2025-07-31 115644" src="https://github.com/user-attachments/assets/75f7a4db-5628-416b-b09b-9dd45c3cb6f8" />
+<img width="1277" height="960" alt="Screenshot 2025-07-31 115735" src="https://github.com/user-attachments/assets/c22d023f-64fb-4c92-a39c-9653f5f02cbc" />
 
 ### Keyboard Shortcuts
 - `Ctrl + Z`: Undo last action
